@@ -1,4 +1,4 @@
-# Teste1 - Hub4Future – FrontEnd
+# 1 - Hub4Future – FrontEnd
 
 ### Principais tecnologias: Angular 8, NodeJS, Angular-Cli, Javascript, Html
 **Passo-a-Passo**
@@ -28,4 +28,4 @@
  
 **6.** Enviar o resultado do projeto ao repositório Github original (De onde o conteúdo inicial foi baixado).
 
-Boa sorte. :+1:
+<div style="position:absolute;right:10px">Boa sorte. :+1:</div>
